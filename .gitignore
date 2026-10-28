@@ -1,1 +1,27 @@
 Practise on Small Dataset
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+
+
+# Pretrained GPT-2 model weights
+gpt2/124M/checkpoint
+gpt2/124M/model.ckpt*
+
+Checkpoints
