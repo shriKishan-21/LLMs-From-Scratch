@@ -24,4 +24,14 @@ env/
 gpt2/124M/checkpoint
 gpt2/124M/model.ckpt*
 
-Checkpoints
+*Checkpoints
+
+# zip file
+*.zip
+
+# big csv files
+*.tsv
+
+*Stage_3/gpt2
+
+*.json
